@@ -1,7 +1,8 @@
-# Java, NetBeans, SceneBuilder - Data Entry App - Part 04 - Add Student Course Enrolment 01
+# Java, NetBeans, SceneBuilder - Data Entry App
+## Part 04 - Add Student Course Enrolment 01
 
-Here is the Java, NetBeans, SceneBuilder source code for
-my video tutorial:
+Here is the Java, NetBeans, SceneBuilder source code
+**Part 04** of my video tutorial series:
 * YouTube: https://youtu.be/FvpO_2w8ZEQ
 * LBRY / Odysee: TBA
 
